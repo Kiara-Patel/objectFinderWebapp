@@ -1,0 +1,18 @@
+#title1{
+color:aliceblue;
+font-size:100px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+background-position:center;
+background-size:cover;
+}
+
+#note{
+color:aliceblue;
+}
+#button1{
+width:60;
+font-size:20px;
+}
